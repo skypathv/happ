@@ -15,26 +15,26 @@
 **2. Настройка Happ:**
 
 Скопируйте вашу ссылку для подключения из бота (нажмите кнопку “⚡️ Подключиться!”)
-![Connect](https://github.com/skypathv/happ/blob/main/images/common/status.png)
+![Connect](https://raw.githubusercontent.com/skypathv/happ/main/images/common/status.png)
 
 Запустите приложение Happ.
 
 ##### Добавление профиля:
 
 Нажмите на кнопку “Из буфера”.
-![image](https://github.com/skypathv/happ/blob/main/images/ios-macos-android/happ/clipboard.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/clipboard.png)
 
 Появится новая подписка ниже. Нажмите на иконку проверки пинга
-![image](https://github.com/skypathv/happ/blob/main/images/ios-macos-android/happ/ping.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/ping.png)
 
 Выберите подходящую локацию.
-![image](https://github.com/skypathv/happ/blob/main/images/ios-macos-android/happ/ping_out.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/ping_out.png)
 
 Нажмите кнопку “Подключиться”.
-![image](https://github.com/skypathv/happ/blob/main/images/ios-macos-android/happ/connect.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/connect.png)
 
 Дождитесь изменения статуса на “Подключен”.
-![image](https://github.com/skypathv/happ/blob/main/images/ios-macos-android/happ/connected.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/connected.png)
 
 Вы великолепны! Наслаждайтесь интернетом без ограничений для 5 устройств!
 

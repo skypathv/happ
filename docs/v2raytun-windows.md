@@ -11,27 +11,27 @@
 **2. Настройка v2RayTun:**
 
 Скопируйте вашу ссылку для подключения из бота (нажмите кнопку “⚡️ Подключиться!”)
-![Connect](https://github.com/skypathv/happ/blob/main/images/common/status.png)
+![Connect](https://raw.githubusercontent.com/skypathv/happ/main/images/common/status.png)
 
 Запустите приложение v2RayTun от имени администратора.
-![admin](https://github.com/skypathv/happ/blob/main/images/windows/v2raytun/run_admin.png)
+![admin](https://raw.githubusercontent.com/skypathv/happ/main/images/windows/v2raytun/run_admin.png)
 
 ##### Добавление профиля:
 
 Нажмите на иконку "+" в правом верхнем углу.
-![image](https://github.com/skypathv/happ/blob/main/images/windows/v2raytun/plus_button.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/windows/v2raytun/plus_button.png)
 
 Нажмите на кнопку “Импорт из буфера обмена”.
-![image](https://github.com/skypathv/happ/blob/main/images/windows/v2raytun/clipboard.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/windows/v2raytun/clipboard.png)
 
 Появится новая подписка ниже. Выберите подходящую локацию.
-![image](https://github.com/skypathv/happ/blob/main/images/windows/v2raytun/sub_added.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/windows/v2raytun/sub_added.png)
 
 Нажмите кнопку “Подключиться”.
-![image](https://github.com/skypathv/happ/blob/main/images/windows/v2raytun/connect.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/windows/v2raytun/connect.png)
 
 Дождитесь изменения статуса на “Подключен”.
-![image](https://github.com/skypathv/happ/blob/main/images/windows/v2raytun/connected.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/windows/v2raytun/connected.png)
 
 Вы великолепны! Наслаждайтесь интернетом без ограничений для 5 устройств!
 
