@@ -21,19 +21,19 @@
 ##### Добавление профиля:
 
 Нажмите на кнопку “Из буфера”.
-![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/clipboard.png)
+![Clipboard](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/clipboard.PNG)
 
 Появится новая подписка ниже. Нажмите на иконку проверки пинга
-![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/ping.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/ping.PNG)
 
 Выберите подходящую локацию.
-![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/ping_out.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/ping_out.PNG)
 
 Нажмите кнопку “Подключиться”.
-![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/connect.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/connect.PNG)
 
 Дождитесь изменения статуса на “Подключен”.
-![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/connected.png)
+![image](https://raw.githubusercontent.com/skypathv/happ/main/images/ios-macos-android/happ/connected.PNG)
 
 Вы великолепны! Наслаждайтесь интернетом без ограничений для 5 устройств!
 
