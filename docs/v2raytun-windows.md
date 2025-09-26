@@ -19,18 +19,23 @@
 ##### Добавление профиля:
 
 Нажмите на иконку "+" в правом верхнем углу.
+
 ![image](https://raw.githubusercontent.com/skypathv/happ/main/images/windows/v2raytun/plus_button.png)
 
 Нажмите на кнопку “Импорт из буфера обмена”.
+
 ![image](https://raw.githubusercontent.com/skypathv/happ/main/images/windows/v2raytun/clipboard.png)
 
 Появится новая подписка ниже. Выберите подходящую локацию.
+
 ![image](https://raw.githubusercontent.com/skypathv/happ/main/images/windows/v2raytun/sub_added.png)
 
 Нажмите кнопку “Подключиться”.
+
 ![image](https://raw.githubusercontent.com/skypathv/happ/main/images/windows/v2raytun/connect.png)
 
 Дождитесь изменения статуса на “Подключен”.
+
 ![image](https://raw.githubusercontent.com/skypathv/happ/main/images/windows/v2raytun/connected.png)
 
 Вы великолепны! Наслаждайтесь интернетом без ограничений для 5 устройств!
