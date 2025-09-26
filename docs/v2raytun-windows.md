@@ -1,4 +1,4 @@
-# v2RayTun Android
+# v2RayTun Windows
 ------------
 
 
