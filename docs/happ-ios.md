@@ -5,7 +5,7 @@
 **1.Загрузка приложения:**
 
 Перейдите в App Store:
-- [https://apps.apple.com/ru/app/happ-proxy-utility/id6504287215](https://apps.apple.com/ru/app/happ-proxy-utility/id6504287215) - ссылка для РФ
+- [https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973) - ссылка для РФ
 - [https://apps.apple.com/us/app/happ-proxy-utility/id6504287215](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215) - ссылка для других стран
 - или вбейте в поиске “Happ - Proxy Utility”, если не открывает по ссылке
 
